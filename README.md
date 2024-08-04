@@ -41,8 +41,3 @@ Now subscribers are ready to listen to subscribed subjects
 Now publisher will start publishing messages on subjects.
 </li>
 
-<h3>Demo</h3>
-![Screenshot (365)](https://github.com/user-attachments/assets/537304d4-1557-47c0-aa34-b2687120e8ca)
-<hr> 
-
-
